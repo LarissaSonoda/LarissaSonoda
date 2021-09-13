@@ -15,7 +15,7 @@
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Lari-Space" src="https://cdn.discordapp.com/attachments/816630594472509480/887034640471314492/Void_Design.gif">
+  <img align="right" alt="Lari-Space" src="https://cdn.discordapp.com/attachments/816630594472509480/887034640471314492/Void_Design.gif" width="128px" height="128px">
 </div>
   
   ##
