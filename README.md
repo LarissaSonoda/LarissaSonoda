@@ -2,7 +2,7 @@
 
 - Estudante de Ciência da Computação na SP Tech School
 - Formada em Desenvolvimento de Sistemas pela Etec Professor Basilides de Godoy
-- 
+
 <div>
   <a href="https://github.com/LarissaSonoda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaSonoda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
