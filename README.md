@@ -10,7 +10,9 @@
 <a href="https://github.com/LarissaSonoda/LarissaSonoda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaSonoda&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-![LarissaSonoda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LarissaSonoda&theme=dracula&hide_border=true)
+<a href="https://github.com/LarissaSonoda/LarissaSonoda">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LarissaSonoda&theme=dracula&hide_border=true" />
+</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
