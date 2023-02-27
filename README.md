@@ -20,6 +20,8 @@
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lariisonoda&theme=algolia&langs_count=8&layout=compact">
   
   ##
   
