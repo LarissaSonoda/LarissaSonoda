@@ -15,7 +15,7 @@
 </a>
 
 [![lariisonoda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lariisonoda&show_icons=true&theme=merko)](https://github.com/LarissaSonoda/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/user/c021b65e-bde6-42b8-b283-2dc26a64d20a.svg)](https://wakatime.com/@c021b65e-bde6-42b8-b283-2dc26a64d20a)
+<a href="https://wakatime.com/@c021b65e-bde6-42b8-b283-2dc26a64d20a"><img src="https://wakatime.com/badge/user/c021b65e-bde6-42b8-b283-2dc26a64d20a.svg" alt="Total time coded since Feb 23 2023" /></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
