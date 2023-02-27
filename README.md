@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LarissaSonoda&theme=dark&hide_border=false" />
 </a>
 
-[![lariisonoda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lariisonoda)](https://github.com/anuraghazra/github-readme-stats)
+[![lariisonoda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lariisonoda&show_icons=true&theme=merko)](https://github.com/LarissaSonoda/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
