@@ -1,15 +1,15 @@
-### Olá!👋
+### Olá! Bem vindo(a)!👋
 
 - Estudante de Ciência da Computação na SP Tech School
 - Formada em Desenvolvimento de Sistemas pela Etec Professor Basilides de Godoy
+
+### Meus trabalhos!
+- <a href="https://www.gruporia.com.br/">Site do Grupo Ria</a>
 
 ![image](https://user-images.githubusercontent.com/82535458/219513113-556a4354-2fa1-4157-8cf5-2350db930b71.png)
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/LarissaSonoda/LarissaSonoda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaSonoda&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/LarissaSonoda/LarissaSonoda">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LarissaSonoda&theme=dark&hide_border=false" />
 </a>
