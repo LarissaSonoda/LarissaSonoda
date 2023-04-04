@@ -3,7 +3,7 @@
 - Estudante de Ciência da Computação na SP Tech School
 - Formada em Desenvolvimento de Sistemas pela Etec Professor Basilides de Godoy
 
-### Meus trabalhos!
+### <a href='https://emojitool.com/pt/books'>📚</a> Meus trabalhos!
 - <a href="https://www.gruporia.com.br/">Site do Grupo Ria</a>
 - <a href="https://github.com/Golden-CompanyS"> Meu TCC da Etec Basilides de Godoy</a>
 - <a href="https://medium.com/@sonoda.lari"> Artigos escritos para o jornal BG News</a>
