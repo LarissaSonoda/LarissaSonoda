@@ -5,6 +5,8 @@
 
 ### Meus trabalhos!
 - <a href="https://www.gruporia.com.br/">Site do Grupo Ria</a>
+- <a href="https://github.com/Golden-CompanyS"> Meu TCC da Etec Basilides de Godoy</a>
+- <a href="https://medium.com/@sonoda.lari"> Artigos escritos para o jornal BG News</a>
 
 ![image](https://user-images.githubusercontent.com/82535458/219513113-556a4354-2fa1-4157-8cf5-2350db930b71.png)
 
