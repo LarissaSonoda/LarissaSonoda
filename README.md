@@ -8,7 +8,7 @@
 - <a href="https://github.com/Golden-CompanyS"> Meu TCC da Etec Basilides de Godoy</a>
 - <a href="https://medium.com/@sonoda.lari"> Artigos escritos para o jornal BG News</a>
 
-![image](https://user-images.githubusercontent.com/82535458/219513113-556a4354-2fa1-4157-8cf5-2350db930b71.png)
+![image](https://i.pinimg.com/564x/85/da/e8/85dae85328007b36c314a84dd1ecb20b.jpg)
 
 ## &#x1f4c8; GitHub Stats
 
