@@ -1,6 +1,6 @@
 ### Olá! Bem vindo(a)!👋
 
-- Estudante de Ciência da Computação na SP Tech School
+- Estudante de Ciência da Computação na SP Tech School (5/8)
 - Formada em Desenvolvimento de Sistemas pela Etec Professor Basilides de Godoy
 
 ### <a href='https://emojitool.com/pt/books'>📚</a> Meus trabalhos!
